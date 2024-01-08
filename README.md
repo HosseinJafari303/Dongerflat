@@ -8,7 +8,7 @@
 
    I'm *Working with cosmos os* 
 
-   about me
-   --------
+   My Address
+   ----------
 
-   - mail : `Dongerflat@gmail.com`
+   - mail : `Dongerflat@gmail.com`   
