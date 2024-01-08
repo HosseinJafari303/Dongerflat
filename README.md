@@ -1,4 +1,4 @@
-<img align="left" width="200"  src="GIF.gif">
+<img align="left" width="100"  src="GIF.gif">
 
    Hello I'm Dongerflat
 
