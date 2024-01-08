@@ -2,7 +2,7 @@
 
 Hello I'm Dongerflat
 
-I'm *software engineer* 
+I'm *Working with cosmos os* 
 
 My primary programming languages are Python and C#.I start worked at 2014 year and I love programming
 
