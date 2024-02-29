@@ -10,7 +10,7 @@
 
 <h2 align="left">About me</h2>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&color=04F712&center=true&vCenter=true&random=false&width=600&height=40&lines=Hello+guys+%F0%9F%91%8B;I+love+programming+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" align=center><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=31F73CD2&center=true&vCenter=true&random=false&width=1350&height=100&lines=Hello+guys+%F0%9F%91%8B;I+love+programming+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" align=center /></a>
 
     {
 
@@ -114,13 +114,8 @@
 
 <div align="left">
 
-<a  href="Dongerflat@gmail.com"  target="_blank">
-
 <img  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  width="52"  height="40"  alt="gmail logo" />
 
-</a>
-
-<img  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  width="52"  height="40"  alt="linkedin logo" />
 
 <img  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  width="52"  height="40"  alt="discord logo" />
 
