@@ -12,31 +12,23 @@
 
 <a href="https://git.io/typing-svg" align=center><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=31F73CD2&center=true&vCenter=true&random=false&width=1350&height=100&lines=Hello+guys+%F0%9F%91%8B;I+love+programming+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" align=center /></a>
 
-    {
+```json
+{
+    "role": "programmer 🖥️",
+    "exp": 10,
+    "skills": [
+        "Python"
+        "C#",
+        "JS",
+        "C++",
+        "html",
+        "css"
+    ],
 
-      "role": "programmer 🖥️",
+    "location": "🇮🇷 IRAN"
+}
 
-      "exp": 10,
-
-      "skills":[
-
-          "Python",
-
-          "C++",
-
-          "C#",
-
-          "Javascript",
-
-          "html",
-
-          "css",
-
-      ],
-
-      location: "IRAN 🇮🇷"
-
-    }
+```
 
   
 
