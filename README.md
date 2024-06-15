@@ -19,10 +19,7 @@
     "skills": [
         "Python"
         "C#",
-        "JS",
         "C++",
-        "html",
-        "css"
     ],
 
     "location": "🇮🇷 IRAN"
